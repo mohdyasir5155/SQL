@@ -67,8 +67,6 @@ LIMIT 10;
 | Example companies | SmartAsset, Meta, AT&T |
 | Job title range | Data Analyst → Director of Analytics |
 
-
-  ![Top Paying Roles](assets\1_top_10_highest_paying_jobs.png)
  
 - Salaries in the top 10 range from **$184,000 to $650,000** — a massive spread.
 - Companies like **SmartAsset, Meta, and AT&T** show up, proving demand spans multiple industries.
